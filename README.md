@@ -32,5 +32,5 @@ go build loader.go
 ![](https://github.com/crisprss/sucksAV/blob/main/images/image.png)
 
 截止到2021.9.21 两者均能Bypass 火绒+360
-
+![](https://github.com/crisprss/sucksAV/blob/main/images/upload2.png)
 
