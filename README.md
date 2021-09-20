@@ -27,9 +27,9 @@ go build loader.go
 ```
 
 未使用Garbel混淆的免杀效果为:
-![](https://github.com/crisprss/sucksAV/blob/main/images/image1.png)
-使用Garbel混淆的免杀效果为::
 ![](https://github.com/crisprss/sucksAV/blob/main/images/image2.png)
+使用Garbel混淆的免杀效果为::
+![](https://github.com/crisprss/sucksAV/blob/main/images/image.png)
 
 截止到2021.9.21 两者均能Bypass 火绒+360
 ![](https://github.com/crisprss/sucksAV/blob/main/images/upload2.png)
